@@ -1,5 +1,9 @@
-Poco a poco lo hiré poniendo bonito...
+# BIENVENIDO/A A MI REPO!!!  
 
+
+### Aquí podrás encontrar mis proyectos publicos.
+
+Si te interesa ver mis certificados los encuentras en [mi landing page!](https://giacca90.github.io/SobreMi/)
 <!--
 **giacca90/giacca90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
